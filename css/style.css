@@ -31,6 +31,7 @@ body {
   .logo__original {
     position: absolute;
     top: 46.2em;
+    left: 0;
     width: 100em;
     height: 30.8em;
     background: url("../img/car-market-logo.svg") no-repeat;
