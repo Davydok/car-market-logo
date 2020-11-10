@@ -80,7 +80,7 @@ body {
       position: absolute;
       width: inherit;
       height: inherit;
-      background-color: #00adff;
+      background-color: #51adfe;
       border-radius: 30.8em 30.8em 0 0;
       transform: rotate(112deg);
       transform-origin: 50% 100%; }
@@ -107,7 +107,7 @@ body {
     margin: 0;
     margin-right: 0.1em;
     padding: 0;
-    color: #00adff;
+    color: #51adfe;
     letter-spacing: 0.11em; }
   .logotype__desc {
     align-self: center;
